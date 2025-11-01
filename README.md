@@ -1,117 +1,99 @@
+Perfect ✅ You gave very clear requirements — and I’ll implement *all* of them with a beautiful, consistent dark-green theme that matches your GitHub profile.
+Here’s your **final, refined, professional GitHub Profile README** 👇
+
+---
+
+```markdown
 <!-- 🌊 Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7F50,100:FF4500&height=200&section=header&text=👋%20Hi%2C%20I'Ophidev!%20🚀&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A604B,100:0D7C57&height=200&section=header&text=👋%20Hi%2C%20I'm%20Ophidev!%20🚀&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <h2 align="center">💻 Full Stack MERN Developer | 🐳 DevOps Learner | ☁️ Cloud Enthusiast</h2>
 
-<p align="center"
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=700&lines=Building+Scalable+MERN+Apps+⚙️;Exploring+Docker+and+DevOps+🐳;Always+Learning+New+Tech+🌱;Open+Source+Contributor+💡" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D7C57&center=true&vCenter=true&width=700&lines=Building+Scalable+MERN+Apps+⚙️;Exploring+Docker+and+DevOps+🐳;Always+Learning+New+Tech+🌱;Open+Source+Contributor+💡" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 About Me  
 
-- 💼 Passionate **MERN Developer** with a focus on real-time apps  
-- 🧑‍💻 Experienced in **React, Node.js, Express, MongoDB**  
-- 🐧 Love working in **Linux environments** and exploring **Docker**  
-- 🎯 Currently learning **CI/CD, DevOps, and Kubernetes**  
-- ⚡ Fun Fact: I debug faster when there’s coffee ☕  
+- 💼 Passionate **MERN Developer** focused on real-time and scalable web apps  
+- 🧑‍💻 Skilled in **React, Node.js, Express, MongoDB**  
+- 🐧 Enjoy working in **Linux environments** and containerization with **Docker**  
+- 🎯 Currently learning **CI/CD, DevOps, and Cloud automation**  
+- ☕ Fun Fact: Coffee + Code = Perfect Day  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,linux,git,github,docker,vscode" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,linux,git,github,docker,vscode&theme=dark" /></a>
 </p>
 
 ---
 
-## 📊 Skill Progress  
-
-| Skill | Level |
-|-------|--------|
-| 🟧 HTML | ![90%](https://progress-bar.dev/90/?title=Advanced&width=200&color=FF7F50) |
-| 🟩 CSS | ![85%](https://progress-bar.dev/85/?title=Advanced&width=200&color=FFA500) |
-| 🟨 JavaScript | ![88%](https://progress-bar.dev/88/?title=Advanced&width=200&color=FFD700) |
-| 🟦 React.js | ![85%](https://progress-bar.dev/85/?title=Proficient&width=200&color=00BFFF) |
-| 🟪 Node.js | ![82%](https://progress-bar.dev/82/?title=Strong&width=200&color=9370DB) |
-| 🟫 MongoDB | ![78%](https://progress-bar.dev/78/?title=Good&width=200&color=32CD32) |
-| 🐳 Docker | ![70%](https://progress-bar.dev/70/?title=Learning&width=200&color=4682B4) |
-| 🐧 Linux | ![80%](https://progress-bar.dev/80/?title=Comfortable&width=200&color=708090) |
-
----
-
-## 📈 GitHub Analytics  
+## 📊 3D Skill Progress  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ophidev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ophidev&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&lineCount=2&theme=dark_green&width=600&bgColor=0A604B&fontColor=ffffff&fontAlign=center&line1=html,html5;css,css3;js,javascript;react,reactjs;redux;nodejs,node;express,expressjs;mongodb,mongo" alt="Tech stack card" />
 </p>
 
 ---
 
-## 🧩 Real-Time Contribution Graph  
+## 🌿 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ophidev&bg_color=1a1b27&color=ff7f50&line=f79c42&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ophidev&bg_color=0A604B&color=ffffff&line=0D7C57&point=fff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
-## 🌆 3D GitHub Skyline  
+## 🧩 Featured Project  
 
-> Experience your commits in **3D space** 🌌  
-> 👉 [View My 3D Skyline](https://skyline.github.com/Ophidev)
-
----
-
-## 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ophidev&theme=onedark&margin-w=10&no-frame=true" />
-</p>
-
----
-
-## 🚀 Featured Projects  
-
-| 🧩 Project | Description | Tech |
-|-------------|--------------|------|
-| 🏠 [**MateMatch**](https://github.com/Ophidev/MateMatch) | Find your perfect roommate | MERN, Socket.io, DaisyUI |
-| 💬 **Live Chat System** | Real-time communication feature | React, Node, Socket.io |
-| 🐳 **DevOps Playground** | Docker, Swarm, and CI/CD demos | Docker, Linux, GitHub Actions |
-
----
-
-## 🧬 Dynamic Widgets  
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ophidev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
+| Project | Description | Tech |
+|----------|--------------|------|
+| <img src="Frontend/src/images/logo.png" width="50" style="border-radius:10px"/> [**MateMatch**](https://github.com/Ophidev/MateMatch) | 🏠 A modern roommate-matching platform for students & professionals | MERN, Socket.io, DaisyUI |
 
 ---
 
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://github.com/Ophidev"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/Ophidev"><img src="https://img.shields.io/badge/GitHub-0D1117?logo=github&logoColor=white&style=for-the-badge"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-0D7C57?logo=gmail&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ophidev&label=Profile%20Views&color=orange&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ophidev&label=Profile%20Views&color=0D7C57&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:FF7F50&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A604B,100:0D7C57&height=120&section=footer" />
 </p>
 ```
 
 ---
 
+### ✅ Changes Made (per your request)
+
+| #   | Change                                                                          | Done |
+| --- | ------------------------------------------------------------------------------- | ---- |
+| 0️⃣ | Changed header/footer animation to **dark green gradient**                      | ✅    |
+| 1️⃣ | Replaced old progress bars with **3D skill card section** (icons + green theme) | ✅    |
+| 2️⃣ | Replaced analytics with a **live contribution graph synced to your commits**    | ✅    |
+| 3️⃣ | Removed 3D skyline link — instead, your real contribution graph shows here      | ✅    |
+| 4️⃣ | Removed “Achievements” section                                                  | ✅    |
+| 5️⃣ | Featured only **MateMatch** with its logo                                       | ✅    |
+| 6️⃣ | Removed dynamic widgets                                                         | ✅    |
+| 7️⃣ | “Connect With Me” now has only **GitHub + Gmail**                               | ✅    |
+| 8️⃣ | Footer wave uses same **dark green color** as the top banner                    | ✅    |
+
+---
+
+Would you like me to make the **MateMatch logo in the table appear circular with a soft shadow hover effect** (like a floating button)?
+It can look really sleek in GitHub’s dark mode 🌑.
