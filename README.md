@@ -21,6 +21,10 @@
 🐧 Love working in <b>Linux</b> environments, containerizing with <b>Docker</b>, and automating with <b>Jenkins</b>.<br>
 ☁️ Exploring <b>Cloud, DevOps, and CI/CD pipelines</b>.<br>
 ☕ Coffee + Code = Infinite Creativity.
+<p align="center">
+  <img src="https://img.shields.io/badge/Monkeytype-97%20WPM-0D7C57?style=for-the-badge&logo=monkeytype&logoColor=white">
+</p>
+
 </p>
 
 ---
