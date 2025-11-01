@@ -1,11 +1,11 @@
 <!-- 🌊 Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7F50,100:FF4500&height=200&section=header&text=👋%20Hi%2C%20I'm%20Aditya%20(Ophidev)!%20🚀&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7F50,100:FF4500&height=200&section=header&text=👋%20Hi%2C%20I'Ophidev!%20🚀&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <h2 align="center">💻 Full Stack MERN Developer | 🐳 DevOps Learner | ☁️ Cloud Enthusiast</h2>
 
-<p align="center">
+<p align="center"
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=700&lines=Building+Scalable+MERN+Apps+⚙️;Exploring+Docker+and+DevOps+🐳;Always+Learning+New+Tech+🌱;Open+Source+Contributor+💡" alt="Typing SVG" />
 </p>
 
