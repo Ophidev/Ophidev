@@ -1,4 +1,3 @@
-
 <!-- 🌊 Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A604B,100:0D7C57&height=200&section=header&text=👋%20Hi%2C%20I'm%20Ophidev!%20🚀&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38" />
@@ -6,8 +5,15 @@
 
 <h2 align="center">💻 Full Stack MERN Developer | 🐳 DevOps Learner | ☁️ Cloud Enthusiast</h2>
 
+---
+
+## ⌨️ What I’m Doing Right Now  
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D7C57&center=true&vCenter=true&width=700&lines=Building+Scalable+MERN+Apps+⚙️;Exploring+Docker+and+DevOps+🐳;Always+Learning+New+Tech+🌱;Open+Source+Contributor+💡" alt="Typing SVG" />
+  <b>▌Building Scalable MERN Apps ⚙️</b><br/>
+  <b>▌Exploring Docker & DevOps 🐳</b><br/>
+  <b>▌Always Learning New Tech 🌱</b><br/>
+  <b>▌Open Source Contributor 💡</b>
 </p>
 
 ---
@@ -25,58 +31,24 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,linux,git,github,docker,vscode&theme=dark" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,linux,git,github,docker,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🧩 3D Skill Progress (Custom HTML/CSS Look)
+## 🎨 My Skill Dashboard  
 
-<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;background:#0A604B;padding:20px;border-radius:15px;">
-  
-  <div style="width:150px;background:#0D1117;border-radius:20px;padding:15px;text-align:center;box-shadow:0 0 15px rgba(13,124,87,0.6);">
-    <h4 style="color:#00e676;">HTML</h4>
-    <div style="background:#111;border-radius:10px;height:10px;overflow:hidden;">
-      <div style="height:10px;width:90%;background:linear-gradient(90deg,#00e676,#0D7C57);"></div>
-    </div>
-  </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ophidev&layout=compact&theme=dark&bg_color=0A604B&title_color=00e676&text_color=ffffff&hide_border=true" />
+</p>
 
-  <div style="width:150px;background:#0D1117;border-radius:20px;padding:15px;text-align:center;box-shadow:0 0 15px rgba(13,124,87,0.6);">
-    <h4 style="color:#00e676;">CSS</h4>
-    <div style="background:#111;border-radius:10px;height:10px;overflow:hidden;">
-      <div style="height:10px;width:85%;background:linear-gradient(90deg,#00e676,#0D7C57);"></div>
-    </div>
-  </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ophidev&show_icons=true&theme=dark&bg_color=0A604B&title_color=00e676&icon_color=00e676&text_color=ffffff&hide_border=true" />
+</p>
 
-  <div style="width:150px;background:#0D1117;border-radius:20px;padding:15px;text-align:center;box-shadow:0 0 15px rgba(13,124,87,0.6);">
-    <h4 style="color:#00e676;">JavaScript</h4>
-    <div style="background:#111;border-radius:10px;height:10px;overflow:hidden;">
-      <div style="height:10px;width:88%;background:linear-gradient(90deg,#00e676,#0D7C57);"></div>
-    </div>
-  </div>
-
-  <div style="width:150px;background:#0D1117;border-radius:20px;padding:15px;text-align:center;box-shadow:0 0 15px rgba(13,124,87,0.6);">
-    <h4 style="color:#00e676;">React</h4>
-    <div style="background:#111;border-radius:10px;height:10px;overflow:hidden;">
-      <div style="height:10px;width:85%;background:linear-gradient(90deg,#00e676,#0D7C57);"></div>
-    </div>
-  </div>
-
-  <div style="width:150px;background:#0D1117;border-radius:20px;padding:15px;text-align:center;box-shadow:0 0 15px rgba(13,124,87,0.6);">
-    <h4 style="color:#00e676;">Node.js</h4>
-    <div style="background:#111;border-radius:10px;height:10px;overflow:hidden;">
-      <div style="height:10px;width:82%;background:linear-gradient(90deg,#00e676,#0D7C57);"></div>
-    </div>
-  </div>
-
-  <div style="width:150px;background:#0D1117;border-radius:20px;padding:15px;text-align:center;box-shadow:0 0 15px rgba(13,124,87,0.6);">
-    <h4 style="color:#00e676;">MongoDB</h4>
-    <div style="background:#111;border-radius:10px;height:10px;overflow:hidden;">
-      <div style="height:10px;width:78%;background:linear-gradient(90deg,#00e676,#0D7C57);"></div>
-    </div>
-  </div>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ophidev&theme=dark&background=0A604B&border=0D7C57&stroke=0D7C57&ring=00e676&fire=00e676&currStreakLabel=00e676&sideNums=fff&currStreakNum=fff" />
+</p>
 
 ---
 
@@ -112,6 +84,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A604B,100:0D7C57&height=120&section=footer" />
 </p>
-
-
-
