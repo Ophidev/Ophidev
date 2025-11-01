@@ -33,18 +33,20 @@
 
 ### 🎨 Frontend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,vite,parcel,reactrouter&theme=dark" width="550"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite&theme=dark" width="550"/>
 </p>
+
 
 ### 🧩 Backend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" width="350"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" width="400"/>
 </p>
 
 ### ☁️ DevOps & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,jenkins,vscode&theme=dark" width="550"/>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,jenkins,vscode&theme=dark" width="600"/>
 </p>
+
 
 ---
 
