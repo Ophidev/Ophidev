@@ -7,14 +7,6 @@
 
 ---
 
-## ⌨️ What I’m Doing Right Now  
-
-<p align="center">
-  <b>▌Building Scalable MERN Apps ⚙️</b><br/>
-  <b>▌Exploring Docker & DevOps 🐳</b><br/>
-  <b>▌Always Learning New Tech 🌱</b><br/>
-  <b>▌Open Source Contributor 💡</b>
-</p>
 
 ---
 
@@ -46,9 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ophidev&show_icons=true&theme=dark&bg_color=0A604B&title_color=00e676&icon_color=00e676&text_color=ffffff&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ophidev&theme=dark&background=0A604B&border=0D7C57&stroke=0D7C57&ring=00e676&fire=00e676&currStreakLabel=00e676&sideNums=fff&currStreakNum=fff" />
-</p>
 
 ---
 
