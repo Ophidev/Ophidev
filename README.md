@@ -53,7 +53,7 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| <img src="Frontend/src/images/logo.png" width="50" style="border-radius:50%;box-shadow:0 0 10px rgba(13,124,87,0.6);"/> [**MateMatch**](https://github.com/Ophidev/MateMatch) | 🏠 A modern roommate-matching platform for students & professionals | MERN, Socket.io, DaisyUI |
+| <img src="https://raw.githubusercontent.com/Ophidev/MateMatch/master/Frontend/src/images/logo.png" width="50" style="border-radius:50%;box-shadow:0 0 10px rgba(13,124,87,0.6);"/> [**MateMatch**](https://github.com/Ophidev/MateMatch) | 🏠 A modern roommate-matching platform for students & professionals | MERN, Socket.io, DaisyUI |
 
 ---
 
