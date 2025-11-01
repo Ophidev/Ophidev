@@ -1,8 +1,12 @@
 
 <!-- 🌊 Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D7C57&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer+💻;DevOps+Learner+🐳;Open+Source+Contributor+💡;Passionate+about+Cloud+☁️" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0D7C57&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer+💻;DevOps+Learner+🐳;Cloud+Enthusiast+☁️;Open+Source+Contributor+💡" 
+    alt="Typing animation showing roles and skills" 
+  />
 </p>
+
 
 
 <h2 align="center">💻 Full Stack MERN Developer | 🐳 DevOps Learner | ☁️ Cloud Enthusiast</h2>
