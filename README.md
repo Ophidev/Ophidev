@@ -1,8 +1,9 @@
 
 <!-- 🌊 Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A604B,100:0D7C57&height=200&section=header&text=👋%20Hi%2C%20I'm%20Ophidev!%20🚀&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D7C57&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer+💻;DevOps+Learner+🐳;Open+Source+Contributor+💡;Passionate+about+Cloud+☁️" alt="Typing SVG" />
 </p>
+
 
 <h2 align="center">💻 Full Stack MERN Developer | 🐳 DevOps Learner | ☁️ Cloud Enthusiast</h2>
 
