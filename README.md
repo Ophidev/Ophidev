@@ -1,13 +1,8 @@
 
 <!-- 🌊 Animated Header -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0D7C57&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer+💻;DevOps+Learner+🐳;Cloud+Enthusiast+☁️;Open+Source+Contributor+💡" 
-    alt="Typing animation showing roles and skills" 
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A604B,100:0D7C57&height=200&section=header&text=👋%20Hi%2C%20I'm%20Ophidev!%20🚀&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 </p>
-
-
 
 <h2 align="center">💻 Full Stack MERN Developer | 🐳 DevOps Learner | ☁️ Cloud Enthusiast</h2>
 
@@ -35,11 +30,53 @@
 
 ---
 
-## 📊 3D Skill Progress  
+## 🧩 3D Skill Progress (Custom HTML/CSS Look)
 
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&lineCount=2&theme=dark_green&width=600&bgColor=0A604B&fontColor=ffffff&fontAlign=center&line1=html,html5;css,css3;js,javascript;react,reactjs;redux;nodejs,node;express,expressjs;mongodb,mongo" alt="Tech stack card" />
-</p>
+<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;background:#0A604B;padding:20px;border-radius:15px;">
+  
+  <div style="width:150px;background:#0D1117;border-radius:20px;padding:15px;text-align:center;box-shadow:0 0 15px rgba(13,124,87,0.6);">
+    <h4 style="color:#00e676;">HTML</h4>
+    <div style="background:#111;border-radius:10px;height:10px;overflow:hidden;">
+      <div style="height:10px;width:90%;background:linear-gradient(90deg,#00e676,#0D7C57);"></div>
+    </div>
+  </div>
+
+  <div style="width:150px;background:#0D1117;border-radius:20px;padding:15px;text-align:center;box-shadow:0 0 15px rgba(13,124,87,0.6);">
+    <h4 style="color:#00e676;">CSS</h4>
+    <div style="background:#111;border-radius:10px;height:10px;overflow:hidden;">
+      <div style="height:10px;width:85%;background:linear-gradient(90deg,#00e676,#0D7C57);"></div>
+    </div>
+  </div>
+
+  <div style="width:150px;background:#0D1117;border-radius:20px;padding:15px;text-align:center;box-shadow:0 0 15px rgba(13,124,87,0.6);">
+    <h4 style="color:#00e676;">JavaScript</h4>
+    <div style="background:#111;border-radius:10px;height:10px;overflow:hidden;">
+      <div style="height:10px;width:88%;background:linear-gradient(90deg,#00e676,#0D7C57);"></div>
+    </div>
+  </div>
+
+  <div style="width:150px;background:#0D1117;border-radius:20px;padding:15px;text-align:center;box-shadow:0 0 15px rgba(13,124,87,0.6);">
+    <h4 style="color:#00e676;">React</h4>
+    <div style="background:#111;border-radius:10px;height:10px;overflow:hidden;">
+      <div style="height:10px;width:85%;background:linear-gradient(90deg,#00e676,#0D7C57);"></div>
+    </div>
+  </div>
+
+  <div style="width:150px;background:#0D1117;border-radius:20px;padding:15px;text-align:center;box-shadow:0 0 15px rgba(13,124,87,0.6);">
+    <h4 style="color:#00e676;">Node.js</h4>
+    <div style="background:#111;border-radius:10px;height:10px;overflow:hidden;">
+      <div style="height:10px;width:82%;background:linear-gradient(90deg,#00e676,#0D7C57);"></div>
+    </div>
+  </div>
+
+  <div style="width:150px;background:#0D1117;border-radius:20px;padding:15px;text-align:center;box-shadow:0 0 15px rgba(13,124,87,0.6);">
+    <h4 style="color:#00e676;">MongoDB</h4>
+    <div style="background:#111;border-radius:10px;height:10px;overflow:hidden;">
+      <div style="height:10px;width:78%;background:linear-gradient(90deg,#00e676,#0D7C57);"></div>
+    </div>
+  </div>
+
+</div>
 
 ---
 
@@ -51,11 +88,11 @@
 
 ---
 
-## 🧩 Featured Project  
+## 🚀 Featured Project  
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| <img src="Frontend/src/images/logo.png" width="50" style="border-radius:10px"/> [**MateMatch**](https://github.com/Ophidev/MateMatch) | 🏠 A modern roommate-matching platform for students & professionals | MERN, Socket.io, DaisyUI |
+| <img src="Frontend/src/images/logo.png" width="50" style="border-radius:50%;box-shadow:0 0 10px rgba(13,124,87,0.6);"/> [**MateMatch**](https://github.com/Ophidev/MateMatch) | 🏠 A modern roommate-matching platform for students & professionals | MERN, Socket.io, DaisyUI |
 
 ---
 
@@ -75,7 +112,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A604B,100:0D7C57&height=120&section=footer" />
 </p>
-
 
 
 
