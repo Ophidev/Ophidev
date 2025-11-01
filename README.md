@@ -51,9 +51,26 @@
 
 ## 🚀 Featured Project  
 
-| Project | Description | Tech |
-|----------|--------------|------|
-| <img src="https://raw.githubusercontent.com/Ophidev/MateMatch/master/Frontend/src/images/logo.png" width="50" style="border-radius:50%;box-shadow:0 0 10px rgba(13,124,87,0.6);"/> [**MateMatch**](https://github.com/Ophidev/MateMatch) | 🏠 A modern roommate-matching platform for students & professionals | MERN, Socket.io, DaisyUI |
+<p align="center">
+  <a href="https://github.com/Ophidev/MateMatch">
+    <img src="https://raw.githubusercontent.com/Ophidev/MateMatch/master/Frontend/src/images/logo.png" width="80" alt="MateMatch Logo" />
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ophidev/MateMatch"><b>MateMatch</b></a>
+    </td>
+    <td>🏠 A modern roommate-matching platform for students & professionals</td>
+    <td>MERN, Socket.io, DaisyUI</td>
+  </tr>
+</table>
 
 ---
 
