@@ -34,6 +34,7 @@
 ### 🎨 Frontend  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite&theme=dark" width="550"/>
+  <img src="https://raw.githubusercontent.com/Ophidev/skill-icons/main/icons/ReactRouter-Dark.svg" width="68" />
 </p>
 
 
