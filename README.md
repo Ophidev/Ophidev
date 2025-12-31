@@ -40,7 +40,7 @@
 
 ### 🧩 Backend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" width="400"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark,postman" width="400"/>
 </p>
 
 ### ☁️ DevOps & Tools  
