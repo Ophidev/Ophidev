@@ -45,7 +45,7 @@
 
 ### ☁️ DevOps & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,jenkins,vscode&theme=dark" width="600"/>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,jenkins,vscode&theme=dark" width="600"/>
 </p>
 
 
