@@ -77,7 +77,6 @@
 <div align="center">
 
 <table>
-
 <tr>
 
 <td align="center" width="33%">
@@ -86,6 +85,10 @@
 
 <p>
 AI-powered security scanner that analyzes <b>websites</b> and <b>source code</b> to detect vulnerabilities, assess risks, and provide actionable security recommendations.
+</p>
+
+<p>
+<b>MERN • AI • Web Security</b>
 </p>
 
 <a href="https://github.com/Ophidev/SentinelAI">
@@ -99,7 +102,11 @@ AI-powered security scanner that analyzes <b>websites</b> and <b>source code</b>
 <h3>💪 FitFlow</h3>
 
 <p>
-A modern <b>fitness tracking platform</b> that helps users manage workouts, schedules, exercise logs, and fitness progress using the MERN Stack.
+A modern <b>fitness tracking platform</b> with workout scheduling, progress tracking, authentication, and exercise management.
+</p>
+
+<p>
+<b>MERN • JWT • MongoDB</b>
 </p>
 
 <a href="https://github.com/Ophidev/FitFlow">
@@ -113,7 +120,11 @@ A modern <b>fitness tracking platform</b> that helps users manage workouts, sche
 <h3>🏠 MateMatch</h3>
 
 <p>
-A modern <b>roommate matching platform</b> for students and professionals built with <b>MERN Stack</b>, <b>Socket.io</b>, and <b>DaisyUI</b>.
+A modern <b>roommate matching platform</b> for students and professionals built with <b>MERN</b>, <b>Socket.io</b>, and <b>DaisyUI</b>.
+</p>
+
+<p>
+<b>MERN • Socket.io • Real-time</b>
 </p>
 
 <a href="https://github.com/Ophidev/MateMatch">
@@ -123,7 +134,6 @@ A modern <b>roommate matching platform</b> for students and professionals built 
 </td>
 
 </tr>
-
 </table>
 
 </div>
