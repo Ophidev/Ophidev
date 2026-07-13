@@ -1,6 +1,6 @@
 <!-- 🌊 Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A604B,100:0D7C57&height=200&section=header&text=👋%20Hi%2C%20I'm%20Ophidev!%20🚀&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A604B,100:0D7C57&height=200&section=header&text=👋%20Hi%2C%20I'm%20Aditya!%20🚀&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <h2 align="center">💻 Full Stack MERN Developer | 🐳 DevOps Learner | ☁️ Cloud Enthusiast</h2>
