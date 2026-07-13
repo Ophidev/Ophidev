@@ -74,62 +74,67 @@
 
 ## 🚀 Featured Projects
 
+---
+
+## 🚀 Featured Projects
+
 <div align="center">
 
-<table>
+<table style="border:none;">
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="33%" style="background:linear-gradient(135deg,#0A604B,#0D7C57);border-radius:20px;padding:20px;box-shadow:0 0 20px rgba(13,124,87,0.6);">
 
-<h3>🛡️ SentinelAI</h3>
+<img src="https://raw.githubusercontent.com/Ophidev/SentinelAI/main/client/public/logo.png" width="100" style="border-radius:50%;box-shadow:0 0 15px rgba(255,255,255,0.2);" alt="SentinelAI Logo"/>
 
-<p>
-AI-powered security scanner that analyzes <b>websites</b> and <b>source code</b> to detect vulnerabilities, assess risks, and provide actionable security recommendations.
-</p>
+<h3>🛡️ <a href="https://github.com/Ophidev/SentinelAI" style="color:#00e676;text-decoration:none;">SentinelAI</a></h3>
 
 <p>
-<b>MERN • AI • Web Security</b>
+AI-powered <b>security scanner</b> that analyzes <b>websites</b> and <b>source code</b> to detect vulnerabilities, assess risks, and provide actionable security recommendations.
 </p>
 
+<p align="center">
 <a href="https://github.com/Ophidev/SentinelAI">
 <img src="https://img.shields.io/badge/🔗%20View%20Project-0D7C57?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" style="background:linear-gradient(135deg,#0A604B,#0D7C57);border-radius:20px;padding:20px;box-shadow:0 0 20px rgba(13,124,87,0.6);">
 
-<h3>💪 FitFlow</h3>
+<img src="https://raw.githubusercontent.com/Ophidev/FitFlow/main/client/public/logo.png" width="100" style="border-radius:50%;box-shadow:0 0 15px rgba(255,255,255,0.2);" alt="FitFlow Logo"/>
 
-<p>
-A modern <b>fitness tracking platform</b> with workout scheduling, progress tracking, authentication, and exercise management.
-</p>
+<h3>💪 <a href="https://github.com/Ophidev/FitFlow" style="color:#00e676;text-decoration:none;">FitFlow</a></h3>
 
 <p>
-<b>MERN • JWT • MongoDB</b>
+A modern <b>fitness tracking platform</b> built with the <b>MERN Stack</b> featuring workout planning, exercise tracking, authentication, and progress monitoring.
 </p>
 
+<p align="center">
 <a href="https://github.com/Ophidev/FitFlow">
 <img src="https://img.shields.io/badge/🔗%20View%20Project-0D7C57?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" style="background:linear-gradient(135deg,#0A604B,#0D7C57);border-radius:20px;padding:20px;box-shadow:0 0 20px rgba(13,124,87,0.6);">
 
-<h3>🏠 MateMatch</h3>
+<img src="https://raw.githubusercontent.com/Ophidev/MateMatch/master/Frontend/src/images/logo.png" width="100" style="border-radius:50%;box-shadow:0 0 15px rgba(255,255,255,0.2);" alt="MateMatch Logo"/>
 
-<p>
-A modern <b>roommate matching platform</b> for students and professionals built with <b>MERN</b>, <b>Socket.io</b>, and <b>DaisyUI</b>.
-</p>
+<h3>🏠 <a href="https://github.com/Ophidev/MateMatch" style="color:#00e676;text-decoration:none;">MateMatch</a></h3>
 
 <p>
-<b>MERN • Socket.io • Real-time</b>
+A modern <b>roommate-matching platform</b> for students & professionals.<br>
+Built with <b>MERN Stack</b>, <b>Socket.io</b>, and <b>DaisyUI</b>.
 </p>
 
+<p align="center">
 <a href="https://github.com/Ophidev/MateMatch">
 <img src="https://img.shields.io/badge/🔗%20View%20Project-0D7C57?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </td>
 
@@ -137,6 +142,8 @@ A modern <b>roommate matching platform</b> for students and professionals built 
 </table>
 
 </div>
+
+---
 ---
 
 ## 🌐 Connect With Me  
