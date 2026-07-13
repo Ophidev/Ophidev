@@ -85,7 +85,7 @@
 
 <td align="center" width="33%" style="background:linear-gradient(135deg,#0A604B,#0D7C57);border-radius:20px;padding:20px;box-shadow:0 0 20px rgba(13,124,87,0.6);">
 
-<img src="https://raw.githubusercontent.com/Ophidev/SentinelAI/main/client/public/logo.png" width="100" style="border-radius:50%;box-shadow:0 0 15px rgba(255,255,255,0.2);" alt="SentinelAI Logo"/>
+<img src="[https://raw.githubusercontent.com/Ophidev/SentinelAI/main/client/public/logo.png](https://raw.githubusercontent.com/Ophidev/SentinelAI/8b29d61d9bd1aaa3276a046cbc004cb041db0e26/client/public/favicon.svg)" width="100" style="border-radius:50%;box-shadow:0 0 15px rgba(255,255,255,0.2);" alt="SentinelAI Logo"/>
 
 <h3>🛡️ <a href="https://github.com/Ophidev/SentinelAI" style="color:#00e676;text-decoration:none;">SentinelAI</a></h3>
 
@@ -103,7 +103,7 @@ AI-powered <b>security scanner</b> that analyzes <b>websites</b> and <b>source c
 
 <td align="center" width="33%" style="background:linear-gradient(135deg,#0A604B,#0D7C57);border-radius:20px;padding:20px;box-shadow:0 0 20px rgba(13,124,87,0.6);">
 
-<img src="https://raw.githubusercontent.com/Ophidev/FitFlow/main/client/public/logo.png" width="100" style="border-radius:50%;box-shadow:0 0 15px rgba(255,255,255,0.2);" alt="FitFlow Logo"/>
+<img src="[https://raw.githubusercontent.com/Ophidev/FitFlow/main/client/public/logo.png](https://raw.githubusercontent.com/Ophidev/FitFlow/refs/heads/main/Frontend/src/assets/logo.png)" width="100" style="border-radius:50%;box-shadow:0 0 15px rgba(255,255,255,0.2);" alt="FitFlow Logo"/>
 
 <h3>💪 <a href="https://github.com/Ophidev/FitFlow" style="color:#00e676;text-decoration:none;">FitFlow</a></h3>
 
